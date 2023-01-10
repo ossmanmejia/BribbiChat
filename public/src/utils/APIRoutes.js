@@ -1,4 +1,4 @@
-export const host = "https://bribbichat-production.up.railway.app/";
+export const host = "https://bribbi-chat-backend.onrender.com";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
