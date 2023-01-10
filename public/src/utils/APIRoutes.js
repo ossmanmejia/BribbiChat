@@ -1,4 +1,4 @@
-export const host = "https://bribii-chat.herokuapp.com";
+export const host = "https://bribbichat-production.up.railway.app/";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
